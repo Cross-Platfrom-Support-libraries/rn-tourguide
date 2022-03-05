@@ -37,6 +37,7 @@ export default StyleSheet.create<IStyle>({
   },
   tooltipText: {
     textAlign: 'center',
+    color:"#000000"
   },
   tooltipContainer: {
     flex: 1,
